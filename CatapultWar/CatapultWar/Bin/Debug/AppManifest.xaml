@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="CatapultWar" EntryPointType="CatapultWar.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="CatapultWar" Source="CatapultWar.dll" />
+    <AssemblyPart x:Name="AppWarp_WP7_SDK" Source="AppWarp_WP7_SDK.dll" />
+    <AssemblyPart x:Name="CatapultWarLib" Source="CatapultWarLib.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json.WindowsPhone" Source="Newtonsoft.Json.WindowsPhone.dll" />
+  </Deployment.Parts>
+</Deployment>

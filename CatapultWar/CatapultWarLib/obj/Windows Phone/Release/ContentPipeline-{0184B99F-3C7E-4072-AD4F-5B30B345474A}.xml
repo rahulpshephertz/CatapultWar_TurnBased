@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\HUDFont.spritefont</Source>
+      <Name>Fonts\HUDFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Fonts\HUDFont.xnb</Output>
+      <Time>2013-12-12T14:26:05.966311+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\ammoType.png</Source>
+      <Name>Textures\HUD\ammoType</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\HUD\ammoType.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\ammoTypeNormal.png</Source>
+      <Name>Textures\HUD\ammoTypeNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\HUD\ammoTypeNormal.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\ammoTypeSplit.png</Source>
+      <Name>Textures\HUD\ammoTypeSplit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\HUD\ammoTypeSplit.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\Arrow.png</Source>
+      <Name>Textures\HUD\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\HUD\Arrow.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\guideDot.png</Source>
+      <Name>Textures\HUD\guideDot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\HUD\guideDot.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\hudBackground.png</Source>
+      <Name>Textures\HUD\hudBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\HUD\hudBackground.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\windArrow.png</Source>
+      <Name>Textures\HUD\windArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\HUD\windArrow.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\gameplay_background.jpg</Source>
+      <Name>Textures\Backgrounds\gameplay_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\gameplay_background.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\crate\box.png</Source>
+      <Name>Textures\crate\box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\crate\box.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\crate\box_explode.png</Source>
+      <Name>Textures\crate\box_explode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\crate\box_explode.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Blue\blueDestroyed\blueCatapult_destroyed.png</Source>
+      <Name>Textures\Catapults\Blue\blueDestroyed\blueCatapult_destroyed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Blue\blueDestroyed\blueCatapult_destroyed.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Blue\blueFire\blueCatapult_fire.png</Source>
+      <Name>Textures\Catapults\Blue\blueFire\blueCatapult_fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Blue\blueFire\blueCatapult_fire.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Blue\blueIdle\blueIdle.png</Source>
+      <Name>Textures\Catapults\Blue\blueIdle\blueIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Blue\blueIdle\blueIdle.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Blue\bluePullback\blueCatapult_Pullback.png</Source>
+      <Name>Textures\Catapults\Blue\bluePullback\blueCatapult_Pullback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Blue\bluePullback\blueCatapult_Pullback.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Red\redDestroyed\redCatapult_destroyed.png</Source>
+      <Name>Textures\Catapults\Red\redDestroyed\redCatapult_destroyed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Red\redDestroyed\redCatapult_destroyed.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Red\redFire\redCatapult_fire.png</Source>
+      <Name>Textures\Catapults\Red\redFire\redCatapult_fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Red\redFire\redCatapult_fire.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Red\redIdle\redIdle.png</Source>
+      <Name>Textures\Catapults\Red\redIdle\redIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Red\redIdle\redIdle.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Red\redPullback\redCatapult_Pullback.png</Source>
+      <Name>Textures\Catapults\Red\redPullback\redCatapult_Pullback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Red\redPullback\redCatapult_Pullback.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Fire_Miss\fire_miss.png</Source>
+      <Name>Textures\Catapults\Fire_Miss\fire_miss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Fire_Miss\fire_miss.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Catapults\Hit_Smoke\smoke.png</Source>
+      <Name>Textures\Catapults\Hit_Smoke\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Catapults\Hit_Smoke\smoke.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\blank.png</Source>
+      <Name>Textures\Backgrounds\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\blank.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\cloud1.png</Source>
+      <Name>Textures\Backgrounds\cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\cloud1.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\cloud2.png</Source>
+      <Name>Textures\Backgrounds\cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\cloud2.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\defeat.png</Source>
+      <Name>Textures\Backgrounds\defeat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\defeat.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\gameplay_screen.png</Source>
+      <Name>Textures\Backgrounds\gameplay_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\gameplay_screen.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\instructions.png</Source>
+      <Name>Textures\Backgrounds\instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\instructions.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\mountain.png</Source>
+      <Name>Textures\Backgrounds\mountain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\mountain.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\sky.png</Source>
+      <Name>Textures\Backgrounds\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\sky.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\title_screen.png</Source>
+      <Name>Textures\Backgrounds\title_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\title_screen.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\victory.png</Source>
+      <Name>Textures\Backgrounds\victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Backgrounds\victory.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ammo\rock_ammo.png</Source>
+      <Name>Textures\Ammo\rock_ammo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Ammo\rock_ammo.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ammo\split_ammo.png</Source>
+      <Name>Textures\Ammo\split_ammo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\Textures\Ammo\split_ammo.xnb</Output>
+      <Time>2013-12-06T19:17:08+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0184B99F-3C7E-4072-AD4F-5B30B345474A}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLibContent\</RootDirectory>
+      <LoggerRootDirectory>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>E:\GitHub\CatapultWar_TurnBased\CatapultWar\CatapultWarLib\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-23T19:36:22.5516057+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
