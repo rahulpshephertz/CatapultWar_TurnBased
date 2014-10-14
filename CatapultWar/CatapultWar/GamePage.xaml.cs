@@ -790,8 +790,8 @@ namespace CatapultWar
                     ? SpriteEffects.None : SpriteEffects.FlipHorizontally, 0);
                 if (GlobalContext.joinedUsers.Length == 2)
                 {
-                    DrawString(hudFont, _TimeCounter.ToString(),
-                     windArrowPosition - new Vector2(100, size.Y), Color.Red);
+                    DrawString(hudFont, "Time:" + _TimeCounter.ToString(),
+                      windArrowPosition - new Vector2(120, size.Y), Color.Red);
                 }
                 DrawString(hudFont, text,
                     windArrowPosition - new Vector2(0, size.Y), Color.Black);

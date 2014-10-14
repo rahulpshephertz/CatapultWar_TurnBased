@@ -110,6 +110,7 @@
       <Name>hudBackground</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Textures\HUD\windArrow.png">
       <Name>windArrow</Name>

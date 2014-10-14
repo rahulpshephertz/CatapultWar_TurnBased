@@ -68,7 +68,7 @@ namespace CatapultWar
                     else
                     {
                         // failed to join a random room, create a new one
-                        WarpClient.GetInstance().createTurnRoom("TurnBasedRoom", GlobalContext.localUsername, 2, GlobalContext.tableProperties,GlobalContext.turnTime);
+                        WarpClient.GetInstance().CreateTurnRoom("TurnBasedRoom", GlobalContext.localUsername, 2, GlobalContext.tableProperties,GlobalContext.turnTime);
                     }
                 }
                 catch (Exception e)

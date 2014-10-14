@@ -37,7 +37,7 @@ namespace CatapultWar.AppWarp
             {
                 // remote user is either off line or has not joined any room yet. Create one and wait for him.
                 GlobalContext.tableProperties["IsPrivateRoom"]="true";
-                WarpClient.GetInstance().createTurnRoom("TurnBasedRoom", GlobalContext.localUsername, 2, GlobalContext.tableProperties,GlobalContext.turnTime);
+                WarpClient.GetInstance().CreateTurnRoom("TurnBasedRoom", GlobalContext.localUsername, 2, GlobalContext.tableProperties,GlobalContext.turnTime);
             }
         }
 
